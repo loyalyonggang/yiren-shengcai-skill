@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-npx skills add your-username/yiren-shengcai-skill
+npx skills add loyalyonggang/yiren-shengcai-skill
 ```
 
 ## 核心模型
@@ -74,6 +74,15 @@ npx skills add your-username/yiren-shengcai-skill
 - 你有什么信息差/资源优势？
 
 **核心建议：** 小步快跑，先赚第一块钱，再优化放大。
+
+---
+
+## 更多效果示例
+
+完整对话示例见 [examples/](./examples/) 目录：
+- 💡 示例1：短视频项目可行吗？
+- 💡 示例2：发现了一个赚钱机会
+- 💡 示例3：要不要 all in 做私域
 
 ---
 
